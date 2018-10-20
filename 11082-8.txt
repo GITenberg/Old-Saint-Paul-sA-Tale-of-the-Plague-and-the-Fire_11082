@@ -12,6 +12,8 @@ Title: Old Saint Paul's
 Author: William Harrison Ainsworth
 
 Release Date: February 14, 2004 [EBook #11082]
+Last Updated: July 31, 2018
+
 
 Language: English
 
@@ -27,15 +29,10 @@ Produced by Dave Morgan, Terry Gilliland and PG Distributed Proofreaders
 
 
 
-OLD SAINT PAUL'S
 
-  _A TALE OF THE PLAGUE
-  AND THE FIRE_
+OLD SAINT PAUL'S, _A TALE OF THE PLAGUE AND THE FIRE_
 
-
-  BY
-  WILLIAM HARRISON AINSWORTH
-
+By William Harrison Ainsworth
 
 
 
@@ -189,14 +186,13 @@ OLD SAINT PAUL'S.
 
 
 
-BOOK THE FIRST.
 
-APRIL, 1665.
+BOOK THE FIRST.--APRIL, 1665.
 
 
-I.
 
-THE GROCER OF WOOD-STREET AND HIS FAMILY.
+
+I. THE GROCER OF WOOD-STREET AND HIS FAMILY.
 
 One night, at the latter end of April, 1665, the family of a citizen of
 London carrying on an extensive business as a grocer in Wood-street,
@@ -779,9 +775,9 @@ search, perceived under the left arm a livid pustule. He uttered a cry
 of anguish. His son was plague-stricken.
 
 
-II.
 
-THE COFFIN-MAKER.
+
+II. THE COFFIN-MAKER.
 
 The first shock over, the grocer bore the affliction manfully, and like
 one prepared for it. Exhibiting little outward emotion, though his heart
@@ -1367,18 +1363,18 @@ marched towards an inner room. Just as he reached the door, a burst of
 loud laughter, evidently proceeding from a numerous party, arose from
 within, and a harsh voice was heard chanting the following strains:
 
-  SONG OF THE PLAGUE.
-  To others the Plague a foe may be,
-  To me 'tis a friend--not an enemy;
-  My coffins and coffers alike it fills,
-  And the richer I grow the more it kills.
-  _Drink the Plague! Drink the Plague!_
+SONG OF THE PLAGUE.
+To others the Plague a foe may be,
+To me 'tis a friend--not an enemy;
+My coffins and coffers alike it fills,
+And the richer I grow the more it kills.
+_Drink the Plague! Drink the Plague!_
 
-  For months, for years, may it spend its rage
-  On lusty manhood and trembling age;
-  Though half mankind of the scourge should die,
-  My coffins will sell--so what care I?
-  _Drink the Plague! Drink the Plague!_
+For months, for years, may it spend its rage
+On lusty manhood and trembling age;
+Though half mankind of the scourge should die,
+My coffins will sell--so what care I?
+_Drink the Plague! Drink the Plague!_
 
 Loud acclamations followed the song, and the doctor, who was filled with
 disgust and astonishment, opened the door. He absolutely recoiled at the
@@ -1416,7 +1412,7 @@ ferocity inexpressibly revolting.
 Sharply rebuking Chowles, who, in springing from his lofty seat, upset
 several of the topmost coffins, the doctor gave him some directions,
 and, turning to the nurse, informed her of her husband's condition, and
-ordered her to go to him immediately Mother Malmayns arose, and glancing
+ordered her to go to him immediately. Mother Malmayns arose, and glancing
 significantly at the coffin-maker, took her departure.
 
 Repeating his injunctions to Chowles in a severe tone, the doctor
@@ -1460,12 +1456,12 @@ With this view, he quitted the room, and was hastening towards the shop,
 when he observed a figure on the back stairs. Quickly mounting them, he
 overtook on the landing Maurice Wyvil.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
-III.
 
-THE GAMESTER AND THE BULLY.
+
+III. THE GAMESTER AND THE BULLY.
 
 Before proceeding further, it will be necessary to retrace our steps for
 a short time, and see what was done by Maurice Wyvil after the alarming
@@ -1709,7 +1705,7 @@ of my honour."
 
 "These are harsh words, sir," replied the knight, calmly; "but let them
 pass. We will play first, and fight afterwards. But you refuse my
-challenge ?"
+challenge?"
 
 "It is false!" replied Disbrowe, fiercely, "I accept it." And producing
 a key, he threw it on the table. "My life is, in truth, set on the die,"
@@ -1875,9 +1871,9 @@ watching, and a good catching, as the sentinels were wont to say, when I
 served King Charles the First. Sir Paul, I attend you."
 
 
-IV.
 
-THE INTERVIEW.
+
+IV. THE INTERVIEW.
 
 Maurice Wyvil, as his friends conjectured, had found his way into the
 house. Creeping through the window, and entering a passage, he moved
@@ -2155,9 +2151,9 @@ Let us go and find him out."
 "Agreed," replied Lydyard.
 
 
-V.
 
-THE POMANDER-BOX.
+
+V. THE POMANDER-BOX.
 
 Any doubts entertained by Leonard Holt as to the manner in which his
 rival entered the house, were removed by discovering the open window in
@@ -2549,9 +2545,9 @@ tracing above it, in large characters, the melancholy formula--"LORD,
 HAVE MERCY UPON US!"
 
 
-VI.
 
-THE LIBERTINE PUNISHED.
+
+VI. THE LIBERTINE PUNISHED.
 
 Sir Paul Parravicin and Major Pillichody arrived without any particular
 adventure at the top of the Haymarket, where the former dismissed the
@@ -2607,7 +2603,7 @@ to-night."
 
 "But, Sir Paul----"
 
-"I will have no denial," replied the knight, peremptorily. If you
+"I will have no denial," replied the knight, peremptorily. "If you
 refuse, you will find me worse to deal with than Disbrowe. You must
 remain at the door till I come out. And now let us lose no more time. I
 am impatient to behold the lady."
@@ -2865,9 +2861,9 @@ escape my vengeance."
 assailant. "Your wife has the plague."
 
 
-VII.
 
-THE PLAGUE NURSE.
+
+VII. THE PLAGUE NURSE.
 
 "And so my husband has got the plague," muttered Mother Malmayns, as she
 hastened towards Saint Paul's, after the reproof she had received from
@@ -3277,9 +3273,9 @@ cried Judith, following him. "Ah! what do I see! People in the church.
 Curses on them! they have ruined my hopes."
 
 
-VIII.
 
-THE MOSAICAL RODS.
+
+VIII. THE MOSAICAL RODS.
 
 In pursuance of their design of seeking out an astrologer, Maurice Wyvil
 and Lydyard crossed Cheapside and entered Friday-street. They had not
@@ -3323,7 +3319,7 @@ a pointed beard and moustache. The general expression of his countenance
 was shrewd and penetrating, and yet there were certain indications of
 credulity about it, showing that he was as likely to be imposed upon
 himself as to delude others. It is scarcely necessary to say that this
-way Lilly.
+was Lilly.
 
 The person on his right, whose name was John Booker, and who, like
 himself, was a proficient in astrology, was so buried in calculation,
@@ -3341,7 +3337,7 @@ much reputation all over England. He was a very honest man," continues
 the same authority; "abhorred any deceit in the art he studied; had a
 curious fancy in judging of thefts; and was successful in resolving
 love-questions. He was no mean proficient in astronomy; understood much
-in physic! was a great admirer of the antimonial cup; and not unlearned
+in physic, was a great admirer of the antimonial cup; and not unlearned
 in chemistry, which he loved well, but did not practise." At the period
 of this history, he was clerk to Sir Hugh Hammersley, alderman.
 
@@ -3554,9 +3550,9 @@ When the bystanders recovered sufficient courage to drag the unfortunate
 sexton out of the pit, they found him quite dead.
 
 
-IX.
 
-THE MINIATURE.
+
+IX. THE MINIATURE.
 
 According to his promise, Doctor Hodges visited the grocer's house early
 on the following day, and the favourable opinion he had expressed
@@ -3718,7 +3714,7 @@ unfortunate affair would necessarily inflict."
 you, Amabel," said the doctor, "I may mention that he is at this moment
 urging his suit with Mistress Mallet,--a young heiress."
 
-"Ah!" exclaimed Amabel."
+"Ah!" exclaimed Amabel.
 
 "I was in attendance upon Mistress Stewart, the king's present
 favourite, the day before yesterday," continued Hodges, "and heard his
@@ -3860,7 +3856,7 @@ breaking the seal. "Insolent!" she exclaimed, as she cast her eyes over
 it. "I can scarcely contain my indignation. But let him cross my path
 again, and he shall find whether I cannot resent such shameful usage."
 
-"What does he say, dear mother ?" asked Amabel.
+"What does he say, dear mother?" asked Amabel.
 
 "You shall hear," replied Mrs. Bloundel, "though I blush to repeat his
 words: 'Amabel, you are mine. No one shall keep you from me. Love like
@@ -3868,7 +3864,7 @@ mine will triumph over all obstacles!'--Love like his, forsooth!" she
 remarked; "let him keep such stuff as that for Mistress Mallet, or his
 other mistresses. But I will go on: 'I may be foiled ninety-nine times,
 but the hundredth will succeed. We shall soon meet again.
-  'MAURICE WYVIL.'"
+'MAURICE WYVIL.'"
 
 "Never!" cried Amabel. "We will never meet again. If he holds me thus
 cheaply, I will let him see that he is mistaken. Leonard Holt, I have
@@ -4043,9 +4039,9 @@ remained, till the evening, when she was suddenly summoned, in a case of
 urgency, by a messenger from Sibbald, the apothecary of Clerkenwell.
 
 
-X.
 
-THE DUEL.
+
+X. THE DUEL.
 
 After Parravicin's terrible announcement, Disbrowe offered him no
 further violence, but, flinging down his sword, burst open the door, and
@@ -4259,9 +4255,9 @@ BOOK THE SECOND.
 MAY, 1665.
 
 
-I.
 
-PROGRESS OF THE PESTILENCE.
+
+I. PROGRESS OF THE PESTILENCE.
 
 Towards the middle of May, the bills of mortality began to swell greatly
 in amount, and though but few were put down to the plague, and a large
@@ -4441,7 +4437,7 @@ that he would have others suffer as he has done. Heed him not, my
 friends; but proceed with the good work. Liberate the poor plague
 prisoners. Liberate them. On! on!"
 
-"Forbear, rash men" cried Bloundel, in an authoritative voice. "In the
+"Forbear, rash men," cried Bloundel, in an authoritative voice. "In the
 name of those you are bound to obey, I command you to desist."
 
 "Command us!" cried one of the bystanders, raising his staff in a
@@ -4573,7 +4569,7 @@ sign."
 
 "It is a dreadful sign," returned Blaize, with a shudder "The thought of
 it brings back my old symptoms. I must have a supper to guard against
-infection--a slice of toasted bread, sprinkled with, vinegar, and
+infection--a slice of toasted bread, sprinkled with vinegar, and
 powdered with nutmeg."
 
 And chattering thus, they proceeded to the kitchen.
@@ -4664,9 +4660,9 @@ promise."
 "She has seen Rochester," muttered the apprentice, turning away.
 
 
-II.
 
-IN WHAT MANNER THE GROCER VICTUALLED HIS HOUSE.
+
+II. IN WHAT MANNER THE GROCER VICTUALLED HIS HOUSE.
 
 Leonard Holt was wrong in his suspicions. Amabel had neither seen nor
 heard from Rochester. But, if the truth must be told, he was never out
@@ -4939,7 +4935,7 @@ farmers with whom he was in the habit of dealing, to send him up an
 unlimited supply of flitches and gammons; and his orders being promptly
 and abundantly answered, he soon found he had more bacon than he could
 possibly consume. He likewise laid in a good store of tongues, hung
-beet, and other dried meats.
+beef, and other dried meats.
 
 As to wine, he already had a tolerable stock; but he increased it by
 half a hogshead of the best canary he could procure; two casks of
@@ -4997,12 +4993,12 @@ watchman he meant to employ; and he had the garrets fitted up with beds
 to form an hospital, if any part of the family should be seized with the
 distemper, so that the sick might be sequestered from the sound.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
-III.
 
-THE QUACK DOCTORS.
+
+III. THE QUACK DOCTORS.
 
 Patience, it may be remembered, had promised Blaize to give him her
 earnings to enable him to procure a fresh supply of medicine, and about
@@ -5488,9 +5484,9 @@ Locking the door, he then went in search of Blaize, and administered a
 similar chastisement to him.
 
 
-IV.
 
-THE TWO WATCHMEN.
+
+IV. THE TWO WATCHMEN.
 
 On the day following the events last related, as Leonard Holt was
 standing at the door of the shop,--his master having just been called
@@ -5608,7 +5604,7 @@ information he had just obtained, and was only deterred from doing so by
 a dread of the consequences it might produce to Amabel.
 
 The evening passed off much as usual. The family assembled at prayer;
-and. Blaize, whose shoulders still ached with the chastisement he had
+and Blaize, whose shoulders still ached with the chastisement he had
 received, eyed the apprentice with sullen and revengeful looks.
 Patience, too, was equally angry, and her indignation was evinced in a
 manner so droll, that at another season it would have drawn a smile from
@@ -5628,7 +5624,7 @@ off to-night."
 "I do _not_ encourage him, Leonard," she rejoined, "and to prove that I
 do not, I will act in any way you think proper tonight."
 
-"If I could trust you," said Leonard, you might be of the greatest
+"If I could trust you," said Leonard, "you might be of the greatest
 service in convincing the earl that his efforts are fruitless."
 
 "You _may_ trust me," she rejoined.
@@ -5918,9 +5914,9 @@ will find her there."
 ladder.
 
 
-V.
 
-THE BLIND PIPER AND HIS DAUGHTER
+
+V. THE BLIND PIPER AND HIS DAUGHTER
 
 Scarcely knowing how he got there, Leonard Holt found himself at the
 great northern entrance of the cathedral. Burning with fury, he knocked
@@ -6328,9 +6324,9 @@ he was made aware of the treachery practised upon him by a peal of
 mocking laughter from his conductress.
 
 
-VI.
 
-OLD LONDON FROM OLD SAINT PAUL'S.
+
+VI. OLD LONDON FROM OLD SAINT PAUL'S.
 
 After repeated, but ineffectual efforts to burst open the door, Leonard
 gave up the attempt in despair, and endeavoured to make his situation
@@ -6458,7 +6454,7 @@ turned towards the north, and suffered his gaze to wander over
 Finsbury-fields, and the hilly ground beyond them--over Smithfield and
 Clerkenwell, and the beautiful open country adjoining Gray's-inn-lane.
 
-So smiling and beautiful did these districts appear, that ha could
+So smiling and beautiful did these districts appear, that he could
 scarcely fancy they were the chief haunts of the horrible distemper. But
 he could not blind himself to the fact that in Finsbury-fields, as well
 as in the open country to the north of Holborn, plague-pits had been
@@ -6651,9 +6647,9 @@ your hours are numbered. I read in your livid looks and red and burning
 eyeballs that you are smitten by the pestilence."
 
 
-VII.
 
-PAUL'S WALK.
+
+VII. PAUL'S WALK.
 
 It will now be necessary to ascertain what took place at the grocer's
 habitation subsequently to Amabel's abduction. Leonard Holt having
@@ -6892,7 +6888,7 @@ is my child, my lord? What have you done with her?"
 
 "I know nothing about her," replied Rochester, with affected
 carelessness.--"Yes, I am wrong," he added, as if recollecting himself;
-"lam told she has run away with your apprentice."
+"I am told she has run away with your apprentice."
 
 Pillichody, who had changed his attire since his escape from the
 grocer's dwelling, thought he might now venture to address him without
@@ -7139,12 +7135,12 @@ may be more fortunate with his second mistress than with his first."
 "It shall be my business to prevent that," rejoined Parravicin. "Help me
 to search for her."
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
-VIII.
 
-THE AMULET.
+
+VIII. THE AMULET.
 
 As the grocer disappeared with his daughter, Nizza Macascree, who had
 anxiously watched the apprentice, observed him turn deadly pale, and
@@ -7337,7 +7333,7 @@ is but a slight one, and he might with care recover. But I can bargain
 with the Earl of Rochester for his removal."
 
 "Take heed how you make such a proposal to his lordship," returned
-Chowles. "From what I have seen, he is likely to, revolt at it."
+Chowles. "From what I have seen, he is likely to revolt at it."
 
 "Every man is glad to get rid of a rival," rejoined Judith.
 
@@ -7605,9 +7601,9 @@ stepped forth. She shrank backwards, and allowed him to pass, and then
 trying the door, found it unfastened.
 
 
-IX.
 
-HOW LEONARD WAS CURED OF THE PLAGUE.
+
+IX. HOW LEONARD WAS CURED OF THE PLAGUE.
 
 Nizza Macascree found Judith leaning over her intended victim, and
 examining the plague-spot on his breast. The nurse was so occupied by
@@ -7992,9 +7988,9 @@ And throwing the blanket over him, he ordered him to be conveyed to his
 own house.
 
 
-X.
 
-THE PEST-HOUSE IN FINSBURY FIELDS.
+
+X. THE PEST-HOUSE IN FINSBURY FIELDS.
 
 Not a word passed between the grocer and his daughter, as he took her
 home from Saint Paul's. Amabel, in fact, was so overpowered by
@@ -8005,7 +8001,7 @@ Mrs. Bloundel at the shop-door, drowned in tears, and almost in a state
 of distraction. On seeing them, she rushed towards her daughter, and
 straining her to her bosom, gave free vent to the impulses of her
 affection. Allowing the first transports of joy to subside, Mr. Bloundel
-begged, her to retire to her own room with Amabel, and not to leave it
+begged her to retire to her own room with Amabel, and not to leave it
 till they had both regained their composure, when he wished to have some
 serious conversation with them.
 
@@ -8029,7 +8025,7 @@ crowd, and did not stop till they reached the northern aisle, where they
 were comparatively alone.
 
 "Your apprentice is a fortunate spark, Mr. Bloundel," he said. "No
-sooner does he lose one mistress than he finds another. Tour daughter is
+sooner does he lose one mistress than he finds another. Your daughter is
 already forgotten, and he is at this moment enjoying a tender
 _tête-à-tête_ in Bishop Kempe's chapel with Nizza Macascree, the blind
 piper's daughter."
@@ -8357,9 +8353,9 @@ with the trick directly."
 only chance of averting that calamity is in the earl."
 
 
-XI.
 
-HOW THE GROCER SHUT UP HIS HOUSE.
+
+XI. HOW THE GROCER SHUT UP HIS HOUSE.
 
 Placed in a warm bed, and carefully tended by the humane physician,
 Leonard Holt slept tranquilly for some hours, and when he awoke, though
@@ -8780,9 +8776,9 @@ BOOK THE THIRD.
 JUNE, 1665.
 
 
-I.
 
-THE IMPRISONED FAMILY.
+
+I. THE IMPRISONED FAMILY.
 
 The first few days of their confinement were passed by the grocer's
 family in a very uncomfortable manner. No one, except Mr. Bloundel,
@@ -9133,9 +9129,9 @@ heads, and the next moment was pulled through the window, and in safety
 by the side of Leonard.
 
 
-II.
 
-HOW FIRES WERE LIGHTED IN THE STREETS.
+
+II. HOW FIRES WERE LIGHTED IN THE STREETS.
 
 Nizza Macascree, for it is useless to affect further mystery, as soon as
 she could find utterance, murmured her thanks to the apprentice, whose
@@ -9640,7 +9636,7 @@ throughout the whole length of the street, nor was there any red
 reflection of the innumerable fires as heretofore in the sky. It was
 evident all were extinguished; and the pitiless pelting of the rain, the
 roar of the water-spouts, and the rush of the over-filled kennels, now
-converted into rivulets, could alone be heard After awhile the storm
+converted into rivulets, could alone be heard. After awhile the storm
 cleared off, and Leonard and his companion issued from their retreat,
 and gazed in silence at the drenched heap before them. While thus
 occupied, the window above them opened, and the grocer appeared at it.
@@ -9935,9 +9931,9 @@ of their covering, with Bell by his side, and playing away at a
 prodigious rate.
 
 
-III.
 
-THE DANCE OF DEATH.
+
+III. THE DANCE OF DEATH.
 
 The condition of the prisons at this season was really frightful. In
 Newgate, in particular, where the distemper broke out at the beginning
@@ -10114,7 +10110,7 @@ cathedral, called Pardon-churchyard, on the walls of which, says Stowe,
 were "artificially and richly painted the Dance of Macabre, or Dance of
 Death, commonly called the Dance of Paul's, the like whereof was painted
 about Saint Innocent's, at Paris. The metres, or poesy of this dance,"
-proceeds the same authority, "were translated out of Trench into English
+proceeds the same authority, "were translated out of French into English
 by John Lydgate, monk of Bury, and, with the picture of Death leading
 all estates, painted about the cloister, at the special request and
 expense of Jenkin Carpenter, in the reign of Henry the Sixth."
@@ -10305,9 +10301,9 @@ House. I shall only be able to offer your majesty and your fair partner
 a sorry supper."
 
 
-IV.
 
-THE PLAGUE-PIT.
+
+IV. THE PLAGUE-PIT.
 
 On being made acquainted by Leonard, who helped him out of the
 pest-cart, with the danger he had run, the piper uttered a cry of
@@ -10413,7 +10409,7 @@ never be revealed to her."
 daughter's sake, I urge you not to delay."
 
 "It is for her sake I am silent," rejoined the piper. "Come along--come
-along" he added, hurrying forward. "Are we far from the pest-house? My
+along," he added, hurrying forward. "Are we far from the pest-house? My
 strength is failing me."
 
 On arriving at their destination, they were readily admitted to the
@@ -10902,7 +10898,7 @@ she shall be proportionately rewarded."
 placed the knight carefully in the cart. "You need not trouble yourself
 further about him," he added to Leonard.
 
-"Before be quits this place I must know who he is," rejoined the latter,
+"Before he quits this place I must know who he is," rejoined the latter,
 placing himself at the horse's head.
 
 "You know his name as well as I do," replied Chowles.
@@ -11168,12 +11164,12 @@ with Judith and Chowles; and orders being given in an under-tone to the
 driver, he departed. The others then proceeded towards Ludgate, while
 Leonard, again disappointed, retraced his steps to Wood-street.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
-V.
 
-HOW SAINT PATHOS WAS USED AS A PEST-HOUSE.
+
+V. HOW SAINT PATHOS WAS USED AS A PEST-HOUSE.
 
 The distemper had by this time increased to such a frightful extent,
 that the pest-houses being found wholly inadequate to contain the number
@@ -11343,7 +11339,7 @@ gone;--and who but you can be the robber?"
 suspect me wrongfully."
 
 "Restore it," replied Judith, "or tell me where it is hidden. If not, I
-will be the death of you?"
+will be the death of you!"
 
 "Let us go to the hiding-place," replied Chowles, whose uneasiness was
 not diminished by the menace. "You may be mistaken, and I hope you are."
@@ -11988,9 +11984,9 @@ uncovering his face at the sound, he sprang to his feet just in time to
 receive his swooning wife in his arms.
 
 
-VI.
 
-THE DEPARTURE.
+
+VI. THE DEPARTURE.
 
 It struck four by Saint Paul's as Doctor Hodges, accompanied by Leonard
 and Nizza Macascree, issued from his dwelling, and proceeded towards
@@ -12725,9 +12721,9 @@ and a phial of plague-water, Blaize shook off his apprehension, and they
 set out at a brisk pace for Kensal Green.
 
 
-VII.
 
-THE JOURNEY.
+
+VII. THE JOURNEY.
 
 Blaize was destined to experience a second fright. It has been mentioned
 that the infected were sometimes seized with a rabid desire of
@@ -13060,9 +13056,9 @@ took her niece and Nizza Macascree into the house, and desired John
 Lutcombe to attend to the others.
 
 
-VIII.
 
-ASHDOWN LODGE.
+
+VIII. ASHDOWN LODGE.
 
 Erected by Inigo Jones, and still continuing in precisely the same state
 as at the period of this history, Ashdown Lodge is a large square
@@ -13787,7 +13783,7 @@ has terrified me with his proposals."
 unfortunate as myself."
 
 "And there is no possibility of escape," returned Nizza, bursting into
-tears; we are snared like birds in the nets of the fowler."
+tears; "we are snared like birds in the nets of the fowler."
 
 "You can fly with Leonard if you choose," replied Amabel.
 
@@ -13942,9 +13938,9 @@ Lutcombe, who engaged to have the horses at the lower end of the south
 avenue an hour before midnight.
 
 
-IX.
 
-KINGSTON LISLE.
+
+IX. KINGSTON LISLE.
 
 About half-past ten, and when it was supposed that the king and his
 courtiers had retired to rest (for early hours were kept in those days),
@@ -14282,7 +14278,7 @@ rushed down stairs, and had just reached the last step, when she was
 seized by two persons. A shawl was passed over her head, and she was
 forced out of the house.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
 
@@ -14292,9 +14288,9 @@ BOOK THE FOURTH.
 SEPTEMBER, 1665.
 
 
-I.
 
-THE PLAGUE AT ITS HEIGHT.
+
+I. THE PLAGUE AT ITS HEIGHT.
 
 Amabel's departure for Berkshire caused no change in her father's mode
 of life. Everything proceeded as before within his quiet dwelling; and,
@@ -14784,7 +14780,7 @@ steps, and holding a lamp in her hand. She was conversing with a tall
 richly-dressed man, whose features he fancied he had seen before, though
 he could not at the moment call them to mind. After a brief
 conversation, they moved off into the depths of the vault, and he lost
-eight of them. All at once it occurred to Leonard that Judith's
+sight of them. All at once it occurred to Leonard that Judith's
 companion was the unfortunate stranger whose child he had interred, and
 who had been so strangely affected at the sight of Nizza Macascree.
 Determined to ascertain the point, he hurried down the steps and plunged
@@ -14851,9 +14847,9 @@ footsteps approaching, and looking up, perceived the stranger and Judith
 Malmayns advancing towards him.
 
 
-II.
 
-THE SECOND PLAGUE-PIT.
+
+II. THE SECOND PLAGUE-PIT.
 
 Judith, being a little in advance of her companion, took Leonard in the
 first instance for a chirurgeon's assistant, and called to him, in a
@@ -15551,12 +15547,12 @@ figure of Thirlby. Calling to him, the other, who appeared to be in
 haste, halted for a moment, and telling the apprentice he was going to
 Doctor Hodges's, desired him to accompany him thither, and went on.
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
-III.
 
-THE HOUSE IN NICHOLAS-LANE.
+
+III. THE HOUSE IN NICHOLAS-LANE.
 
 On reaching Watling-street, Leonard and his companion found Doctor
 Hodges was from home. This did not much surprise the apprentice, after
@@ -16527,9 +16523,9 @@ Argentine." Before an answer could be returned, the door was opened by
 Hodges, and both starting to their feet, hurried towards him.
 
 
-IV.
 
-THE TRIALS OF AMABEL.
+
+IV. THE TRIALS OF AMABEL.
 
 It will now be necessary to return to the period of Amabel's abduction
 from Kingston Lisle. The shawl thrown over her head prevented her cries
@@ -16705,7 +16701,7 @@ severe trials, it is true. I have been constantly baffled in my pursuit
 of you, but disappointment has only made me love you more devotedly. Why
 too late? What is to prevent our nuptials from taking place
 to-day--to-morrow--when you will? The king himself shall be present at
-the ceremony, and shall give you away. Will this satisfy your scruples.
+the ceremony, and shall give you away. Will this satisfy your scruples?
 I know I have offended you. I know I deserve your anger. But the love
 that prompted me to act thus, must also plead my pardon."
 
@@ -16752,7 +16748,7 @@ favourably. He waved his hand to the attendants, and they were alone.
 being convinced from your looks that I have nothing to fear. Oh! why did
 you not abridge this tedious interval? Why not inform me you had altered
 your mind? But I will not reproach you. I am too happy to complain of
-the delay?"
+the delay."
 
 "I must undeceive you, my lord," returned Amabel, gravely. "No change
 has taken place in my feelings. I still adhere to the resolution I had
@@ -16852,12 +16848,12 @@ adjoining chamber, the door of which she fastened after her.
 "but I find I was mistaken. To-morrow's mood, however, may be unlike
 to-day's. At all events, I must take my measures differently."
 
-       *       *       *       *       *
+*       *       *       *       *
 
 
-V.
 
-THE MARRIAGE AND ITS CONSEQUENCES.
+
+V. THE MARRIAGE AND ITS CONSEQUENCES.
 
 Unwilling to believe he had become an object of aversion to Amabel,
 Rochester renewed his solicitations on the following day, and calling
@@ -17274,9 +17270,9 @@ restrained by a powerful grasp, and turning in utmost alarm, beheld the
 Earl of Rochester.
 
 
-VI.
 
-THE CERTIFICATE.
+
+VI. THE CERTIFICATE.
 
 "Wretch!" cried the earl. "An instinctive dread that you would do your
 poor charge some injury brought me back, and I thank Heaven I have
@@ -17835,9 +17831,9 @@ BOOK THE FIFTH.
 DECEMBER, 1665.
 
 
-I.
 
-THE DECLINE OF THE PLAGUE.
+
+I. THE DECLINE OF THE PLAGUE.
 
 More than two months must be passed over in silence. During that time,
 the pestilence had so greatly abated as no longer to occasion alarm to
@@ -17928,7 +17924,7 @@ pallets of the sick were removed and burned, and all the stains and
 impurities with which its floor and columns were polluted were cleansed.
 Nothing was left untried to free it from infection. It was washed
 throughout with vinegar, fumigated with the strongest scents, and
-several large barrels of pitch were set fire to in the aisles."
+several large barrels of pitch were set fire to in the aisles.
 
 "It shall undergo another species of purification," said Solomon Eagle,
 who was present during these proceedings; "one that shall search every
@@ -18426,9 +18422,9 @@ all that was left.
 testimony of gratitude for my signal deliverance."
 
 
-II.
 
-THE MIDNIGHT MEETING.
+
+II. THE MIDNIGHT MEETING.
 
 The first day of his deliverance being spent by the grocer in the
 praiseworthy manner before related, he laid his head upon his pillow
@@ -18781,7 +18777,7 @@ halberds in their hands rushed forward, and seizing Thirlby, cried, "We
 arrest you as a murderer!"
 
 Thirlby, who seemed utterly overcome by surprise and horror, offered no
-Resistance. At this juncture Leonard felt his arm seized by a
+resistance. At this juncture Leonard felt his arm seized by a
 bystander--he did not know whom--and scarcely conscious of what was
 taking place, suffered himself to be dragged from the scene.
 
@@ -18793,9 +18789,9 @@ BOOK THE SIXTH.
 SEPTEMBER, 1666.
 
 
-I.
 
-THE FIRE-HALL.
+
+I. THE FIRE-HALL.
 
 About nine o'clock on the night of Saturday, the second of September,
 1666--and rather more than nine months after the incidents last
@@ -19154,9 +19150,9 @@ mounting to the ceiling, set fire to the old, dry, half-decayed timber
 that composed it.
 
 
-II.
 
-THE FIRST NIGHT OF THE FIRE.
+
+II. THE FIRST NIGHT OF THE FIRE.
 
 Having seen the stack of wood kindled, and the flames attack the
 building in such a manner as to leave no doubt they would destroy it,
@@ -19320,13 +19316,14 @@ scattered far and wide by the driving wind, carrying destruction
 wherever they alighted, and spreading the conflagration on all sides,
 till it seemed like a vast wedge of fire driven into the heart of the
 city. And thus it went on, swallowing up all before it, like an
-insatiate monster, and roaring for very joy. Meanwhile, the incendiaries
-had met, as concerted, near the foot of the bridge, and all except
-Philip Grant seemed to rejoice in the progress of the conflagration.
-Chowles made some comment upon his moody looks and silence, and
-whispered in his ear, "You have now an opportunity of retrieving your
-fortune, and may make yourself richer than your son. Take my advice, and
-do not let it pass."
+insatiate monster, and roaring for very joy.
+
+Meanwhile, the incendiaries had met, as concerted, near the foot of the
+bridge, and all except Philip Grant seemed to rejoice in the progress of
+the conflagration. Chowles made some comment upon his moody looks and
+silence, and whispered in his ear, "You have now an opportunity of
+retrieving your fortune, and may make yourself richer than your son.
+Take my advice, and do not let it pass."
 
 "Away, tempter!" cried Grant--"I have lighted a fire within my breast
 which never will be quenched."
@@ -19499,9 +19496,9 @@ Dutchman or the Frenchman?"
 the group opposite him. "Yonder stands the incendiary!"
 
 
-III.
 
-PROGRESS OF THE FIRE.
+
+III. PROGRESS OF THE FIRE.
 
 Instantly surrounded and seized by the mob, Grant offered no resistance,
 but demanded to be led with his accuser before a magistrate. Almost as
@@ -19852,9 +19849,9 @@ Queenhithe, ascended Bread-street-hill, and betook himself to
 Wood-street.
 
 
-IV.
 
-LEONARD'S INTERVIEW WITH THE KING.
+
+IV. LEONARD'S INTERVIEW WITH THE KING.
 
 Some rumours of the conflagration, as will be supposed, had ere this
 reached Mr. Bloundel, but he had no idea of the extent of the direful
@@ -20039,11 +20036,12 @@ latter halted.
 "You seem to be in some difficulty," remarked Rochester. "Can I help
 you?"
 
-Leonard was about to turn away, but he checked himself. "I will not
-suffer my resentful feelings to operate injuriously to others," he
-muttered. "I desire to see the king, my lord," he added, to the earl. "I
-have a proposal to make to him, which I think would be a means of
-checking the conflagration."
+Leonard was about to turn away, but he checked himself.
+
+"I will not suffer my resentful feelings to operate injuriously to
+others," he muttered. "I desire to see the king, my lord," he added, to
+the earl. "I have a proposal to make to him, which I think would be a
+means of checking the conflagration."
 
 "Say you so?" cried Rochester. "Come along, then. Heaven grant your plan
 may prove successful; in which case, I promise you, you shall be nobly
@@ -20060,7 +20058,7 @@ into the palace. They found the entrance-hall filled with groups of
 officers and attendants, all conversing together, it was evident from
 their looks and manner, on the one engrossing topic--the conflagration.
 Ascending a magnificent staircase, and traversing part of a grand
-gallery, they entered an ante-room, in which a number of courtiers and.
+gallery, they entered an ante-room, in which a number of courtiers and
 pages--amongst the latter of whom was Chiffinch--were assembled. At the
 door of the inner chamber stood a couple of ushers, and as the earl
 approached, it was instantly thrown open. As Leonard, however, who
@@ -20259,9 +20257,9 @@ ejaculation of despair, he commanded the rowers to make instantly for
 the shore.
 
 
-V.
 
-HOW LEONARD SAVED THE KING'S LIFE.
+
+V. HOW LEONARD SAVED THE KING'S LIFE.
 
 The royal barge landed at Queenhithe, and Charles instantly
 disembarking, proceeded on foot, and at a pace that compelled, his
@@ -20620,9 +20618,9 @@ of the numerous fabrics, continued without intermission during the whole
 of that fatal night.
 
 
-VI.
 
-HOW THE GROCER'S HOUSE WAS BURNT.
+
+VI. HOW THE GROCER'S HOUSE WAS BURNT.
 
 It was full ten o'clock before Leonard could obtain permission to quit
 the king's party, and he immediately hurried to Wood-street. He had
@@ -20996,9 +20994,9 @@ removing his hand from his side, a copious effusion of blood followed,
 and, sinking backwards, he expired.
 
 
-VII.
 
-THE BURNING OF SAINT PAUL'S.
+
+VII. THE BURNING OF SAINT PAUL'S.
 
 Several other persons having by this time come up, the body of Lord
 Argentine was conveyed to Bishop Kempe's Chapel, and left there till a
@@ -21354,9 +21352,9 @@ ancient pieces of piety in the Christian world"--to use the words of
 Evelyn, a heap of ruin and ashes.
 
 
-VIII.
 
-HOW LEONARD RESCUED THE LADY ISABELLA.
+
+VIII. HOW LEONARD RESCUED THE LADY ISABELLA.
 
 The course of events having been somewhat anticipated in the last
 chapter, it will now be necessary to return to an earlier stage in the
@@ -21587,10 +21585,10 @@ but this calamity was predicted in the last century."
 
 "By Michael Nostradamus," replied Lilly; "his prediction runs thus:--
 
-  'La sang du juste à Londres fera faute,
-     Bruslez par feu, le vingt et trois, les Six;
-   La Dame antique cherra de place haute,
-     De même secte plusieurs seront occis.'[1]
+'La sang du juste à Londres fera faute,
+Bruslez par feu, le vingt et trois, les Six;
+La Dame antique cherra de place haute,
+De même secte plusieurs seront occis.'[1]
 
 And thus I venture to explain it. The 'blood of the just' refers to the
 impious and execrable murder of your majesty's royal father of blessed
@@ -21605,10 +21603,10 @@ destroyed."
 
 [Footnote 1:
 
-  'The blood of the just shall be wanting in London,
-     Burnt by fire of three-and-twenty, the Six;
-   The ancient Dame shall fall from her high place,
-     Of the same sect many shall be killed.']
+'The blood of the just shall be wanting in London,
+Burnt by fire of three-and-twenty, the Six;
+The ancient Dame shall fall from her high place,
+Of the same sect many shall be killed.']
 
 "The prophecy is a singular one," remarked Charles, musingly "and you
 have given it a plausible interpretation." And for some moments he
@@ -21628,9 +21626,9 @@ answer with my life that I preserve the fortress." And he departed on
 his mission.
 
 
-IX.
 
-WHAT BEFEL CHOWLES AND JUDITH IN THE VAULTS OF SAINT FAITH'S.
+
+IX. WHAT BEFEL CHOWLES AND JUDITH IN THE VAULTS OF SAINT FAITH'S.
 
 Having now seen what occurred outside Saint Paul's, we shall proceed to
 the vaults beneath it. Chowles and Judith, it has been mentioned, were
@@ -21827,6 +21825,8 @@ the whole chamber, burying the two partners in iniquity, and the whole
 of their ill-gotten gains, in its burning waves.
 
 
+
+
 X.
 
 CONCLUSION.
@@ -22018,6 +22018,7 @@ OLD SAINT PAUL'S.
 
 
 THE END.
+
 
 
 
